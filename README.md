@@ -20,18 +20,10 @@ Olá! Meu nome é Pablo Gsus e este repositório é um registro da minha trajet�
 
 - **Fundamentos de Python** – SENAI  
 - **Introdução ao SQL** – Comandos como `SELECT`, `INSERT`, `DELETE`
-- **APIs REST** – Prática com `GET`, `POST`, e tratamento de JSON
-
 ### 🛠️ Projetos em andamento
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| `consumo-api-pokemon` | Consulta e exibição de dados da API Pokémon | Python, Requests, JSON |
-| `tabela_sql_clientes` | Banco de dados fictício com comandos básicos | SQL |
-| `cartaz-supercomputadores` | Cartaz explicativo sobre supercomputadores | PowerPoint, Design |
-| `imagem-cantares2` | Representação visual bíblica | Prompt Engineering, IA |
 
----
+
 
 ## 💬 Soft Skills
 
@@ -52,7 +44,7 @@ Olá! Meu nome é Pablo Gsus e este repositório é um registro da minha trajet�
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/)
-- E-mail: seuemail@exemplo.com
+- E-mail: psantoss.22.12.2003@gmail.com
 - GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
 
 ---
